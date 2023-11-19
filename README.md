@@ -4,6 +4,7 @@ As it has many duplicates of the Uniswap DEX, YADEX is a copy of it while enabli
 - Linea Testnet: [0x06e40F49E71184d34eDDE4D14b55d37071A228d2](https://explorer.goerli.linea.build/address/0x06e40F49E71184d34eDDE4D14b55d37071A228d2)
 - Polygon zkEVM Testnet: [0x63a4dab0be89f0153e73947d690d856e1a374ca5](https://testnet-zkevm.polygonscan.com/address/0x63a4dab0be89f0153e73947d690d856e1a374ca5)
 - Mantle Testnet: [0x06e40F49E71184d34eDDE4D14b55d37071A228d2](https://explorer.testnet.mantle.xyz/address/0x06e40F49E71184d34eDDE4D14b55d37071A228d2)
+- Arbitrium Sepolia: [0x06e40F49E71184d34eDDE4D14b55d37071A228d2](https://sepolia.arbiscan.io/address/0x06e40F49E71184d34eDDE4D14b55d37071A228d2)
 
 It was forked from the open source library of Scaffold-ETH-2 
 
